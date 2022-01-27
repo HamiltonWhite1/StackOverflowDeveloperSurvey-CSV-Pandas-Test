@@ -1,3 +1,5 @@
+This .txt file is provided with Stack Overflow's .csv files, and is not a part of my own work in this repository.
+
 The Public 2021 Stack Overflow Developer Survey Results
 
 Description:
